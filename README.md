@@ -23,7 +23,7 @@ The complete methodology is documented in the peer-reviewed research paper:
 
 **DOI:** [10.5281/zenodo.22029421](https://doi.org/10.5281/zenodo.22029421)
 
-The canonical published version of the paper is available through Zenodo.
+The canonical published version of the paper is available through Zenodo. The current manuscript is v3.1 (October 2026).
 
 ---
 

@@ -18,12 +18,12 @@ The complete methodology is documented in the peer-reviewed research paper:
 **Capability-Oriented Software Engineering (COSE): An Incremental Methodology for Building Reusable Capability Libraries**
 
 **Author:** Enrique Solis Carvajal  
-**Version:** 1.0  
-**Published:** August 20, 2026
+**Public publication version:** 1.0.0  
+**Based on manuscript:** v2.1
 
 **DOI:** [10.5281/zenodo.22029421](https://doi.org/10.5281/zenodo.22029421)
 
-The canonical published version of the paper is available through Zenodo. The current manuscript is v3.1 (October 2026).
+The canonical first public publication is available through Zenodo. It is publication v1.0.0 and is based on Manuscript Version 2.1. The current manuscript is v3.1, corresponding to public publication v2.1.0.
 
 ---
 
@@ -184,7 +184,7 @@ WIF therefore serves as an empirical case study of the COSE methodology.
 
 This repository is intended as the **public, living documentation space for COSE**.
 
-The published paper provides the formal research document and establishes the initial version of the methodology.
+The published paper provides the formal research document. The public publication history is v1.0.0 (Manuscript v2.1), v2.0.0 (Manuscript v3.0), and v2.1.0 (Manuscript v3.1). Manuscript v1.0 was an early unpublished working document.
 
 This repository exists to make the methodology easier to:
 

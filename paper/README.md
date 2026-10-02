@@ -7,19 +7,22 @@ This directory contains the research paper introducing Capability-Oriented Softw
 **Capability-Oriented Software Engineering (COSE): An Incremental Methodology for Building Reusable Capability Libraries**
 
 **Author:** Enrique Solis Carvajal  
-**Current version:** 3.1  
-**Publication date:** October 2026
+**Current manuscript version:** 3.1  
+**Current public publication version:** 2.1.0
 
-### Version history
+### Publication and manuscript version history
 
-| Version | Date | GitHub | Zenodo |
-|---|---|---|---|
-| v1.0 | June 2026 | Available | Published |
-| v2.1 | August 2026 | Available | Published |
-| v3.0 | September 2026 | Available | Published |
-| v3.1 | October 2026 | Available | Pending |
+The manuscript version and the public publication version use different numbering.
 
-The repository preserves published paper versions as versioned historical artifacts. The current manuscript is v3.1.
+| Public publication | Manuscript version | Status |
+|---|---|---|
+| v1.0.0 | v2.1 | Published |
+| v2.0.0 | v3.0 | Published |
+| v2.1.0 | v3.1 | Current public version |
+
+**Manuscript v1.0** was an early working document and was not released as a public publication. It is therefore not part of the public publication numbering.
+
+The repository preserves the manuscript versions as historical artifacts. The current manuscript is v3.1, corresponding to public publication v2.1.0.
 
 ### File integrity
 
@@ -30,11 +33,13 @@ SHA-256 checksums of the archived manuscript files:
 
 ### DOI
 
-The canonical academic record of the published work is available through Zenodo:
+The canonical academic record currently documented for COSE is available through Zenodo:
 
 https://doi.org/10.5281/zenodo.22029421
 
-The DOI above corresponds to the published v2.1 record. Later versions are maintained as versioned manuscripts and will receive their corresponding Zenodo records when published.
+This DOI corresponds to the first public COSE publication (v1.0.0), which was based on Manuscript Version 2.1.
+
+Later manuscript and publication versions are maintained as versioned historical artifacts and corresponding publication records.
 
 ## Abstract
 
@@ -44,7 +49,7 @@ COSE establishes a mathematical framework for problem decomposition into single-
 
 ## Citation
 
-If you use or reference COSE, please cite the Zenodo record associated with the specific version you are using.
+If you use or reference COSE, please cite the public publication record associated with the specific version you are using.
 
 ## Related Work
 

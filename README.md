@@ -18,12 +18,13 @@ The complete methodology is documented in the peer-reviewed research paper:
 **Capability-Oriented Software Engineering (COSE): An Incremental Methodology for Building Reusable Capability Libraries**
 
 **Author:** Enrique Solis Carvajal  
-**Public publication version:** 1.0.0  
-**Based on manuscript:** v2.1
+**Current public publication version:** 2.1.0  
+**Current manuscript:** v3.1
 
-**DOI:** [10.5281/zenodo.22029421](https://doi.org/10.5281/zenodo.22029421)
+**Current DOI:** [10.5281/zenodo.23092660](https://doi.org/10.5281/zenodo.23092660)  
+**DOI for all versions:** [10.5281/zenodo.22029420](https://doi.org/10.5281/zenodo.22029420)
 
-The canonical first public publication is available through Zenodo. It is publication v1.0.0 and is based on Manuscript Version 2.1. The current manuscript is v3.1, corresponding to public publication v2.1.0.
+The publication history is maintained through versioned Zenodo records: v1.0.0 (Manuscript v2.1), v2.0.0 (Manuscript v3.0), and v2.1.0 (Manuscript v3.1).
 
 ---
 
@@ -252,7 +253,7 @@ The purpose of making COSE public is precisely to allow the methodology to be ex
 
 If you reference COSE in academic or technical work, please cite the published paper:
 
-> Solis Carvajal, E. (2026). *Capability-Oriented Software Engineering (COSE): An Incremental Methodology for Building Reusable Capability Libraries*. Zenodo. https://doi.org/10.5281/zenodo.22029421
+> Solis Carvajal, E. (2026). *Capability-Oriented Software Engineering (COSE): An Incremental Methodology for Building Reusable Capability Libraries*. Zenodo. https://doi.org/10.5281/zenodo.23092660
 
 ---
 
